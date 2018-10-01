@@ -1,6 +1,6 @@
 Checkout http://zenikaouest.github.io/talk-docker-insight/
 
-#Plan présentation Docker
+# Plan présentation Docker
 
 ## Docker, kézako ?
 - DotCloud
@@ -31,14 +31,14 @@ Checkout http://zenikaouest.github.io/talk-docker-insight/
 - sans quitter on modifie, et ça modifie a chaud (F5 sur browser)
  
 
-##Docker compose
+## Docker compose
 - c’est super cool
 
 ## Demo d’une stack MEAN ? ou stack Spring / Tomcat / BDD
 - on montre le fichier compose
 - on lance et pfiou
 
-##Docker swarm
+## Docker swarm
 - c’est la même cli que docker
 - la 1.0 devrait être sortie
 
@@ -46,11 +46,11 @@ Checkout http://zenikaouest.github.io/talk-docker-insight/
 - on se prépare qq VM’s qu’on a fait rejoindre le cluster au préalable
 - en live, on crée un manager, on fait pointer le client sur le manager swarm, et on lance quelques containers
 
-##~~Docker Machine~~
-##~~Demo de Docker machine~~
-##~~Docker Hub~~
+## ~~Docker Machine~~
+## ~~Demo de Docker machine~~
+## ~~Docker Hub~~
 
-##Nouveautés docker 1.9
+## Nouveautés docker 1.9
 - Multihost Network
 - Volumes + Plugins
 - Swarm 1.0
